@@ -29,7 +29,7 @@ ufw allow to any port 1813 proto udp
 
 //INSTALL DALORADIUS WEB UI
 //DOWNLOAD
-https://sourceforge.net/projects/daloradius/files/daloradius/daloradius-1.1-2.zip
+wget https://sourceforge.net/projects/daloradius/files/daloradius/daloradius-1.1-2.zip
 
 //COPY TO USER 
 cp ./library/daloradius.conf.php ./daloradius-users/library/
