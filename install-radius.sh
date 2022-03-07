@@ -52,3 +52,10 @@ username = adiusadmin
 password = radiusadmin
 
 nas secret = nas_secret
+
+
+
+======
+change mysql to mysqli
+
+    /var/www/html/daloradius/library/daloradius.conf.php
